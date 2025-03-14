@@ -2,6 +2,3 @@
 echo "new file sh"
 pwd
 echo basedir
-funchtion(){
-    echo "..."
-}
